@@ -45,6 +45,6 @@
 ![93820e16-3c7f-44e5-bfac-d4ae1418e6a0](https://user-images.githubusercontent.com/67934296/188793458-02095c65-a9c1-4b20-92f9-0aee105814fd.png)
 
 # Model testing Results
-  LogisticRegression(C=2.0)                   Accuracy:  0.84
+  LogisticRegression(C=2.0)        "           "           Accuracy:  0.84
   
   ![bdcab37c-625d-4b42-973b-f7f9e0afe5b7](https://user-images.githubusercontent.com/67934296/188793816-5b998841-04f5-4f38-a0fa-55b1266c0930.png)
