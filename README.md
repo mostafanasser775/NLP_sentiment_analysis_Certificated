@@ -8,5 +8,5 @@
 </ul>
 <br>
 
-Installation
-- unzip the Data.rar file and take path to Code
+## Installation
+unzip the Data.rar file and take path to Code
