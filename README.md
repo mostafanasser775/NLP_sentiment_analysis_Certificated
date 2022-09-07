@@ -16,7 +16,6 @@
   </ol>
   
 # ***Data Exploration***
-
 ![Screenshot 2022-09-07 064912](https://user-images.githubusercontent.com/67934296/188791240-4ecb2947-c390-42f1-a26a-f29666de939e.png)
 
 ![Screenshot 2022-09-07 065031](https://user-images.githubusercontent.com/67934296/188791361-68f08da9-8778-4081-9126-91ddb4542074.png)
@@ -33,7 +32,6 @@
 ![ed376b22-b5a3-4db7-b3f1-e388577147e0](https://user-images.githubusercontent.com/67934296/188792511-f527b5a2-1cd2-4684-9b57-bec641030da9.png)
 
 # Data Preprocessing
-
 * Case Normalization
 * Remove Stopwords
 * Stemming & Lemmatization (***PorterStemmer***)
