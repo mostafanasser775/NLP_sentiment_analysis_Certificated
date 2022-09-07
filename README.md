@@ -23,8 +23,14 @@
 
 ![Screenshot 2022-09-07 065224](https://user-images.githubusercontent.com/67934296/188791565-42cadaf2-fedb-4802-867f-72973bb28c1e.png)
 
-# ***Data Preprocessing***
-## Identifying stop words
+## Most common sentences in data that are not stop words.
 
-![bdc9f313-4e99-4121-b458-fb883687c456](https://user-images.githubusercontent.com/67934296/188791800-ce042a06-f5c9-4280-9874-c3adc6301534.png)
+![bdc9f313-4e99-4121-b458-fb883687c456](https://user-images.githubusercontent.com/67934296/188792436-a24ca5df-4cff-4a7b-b767-b543750bb699.png)
+
+## N-gram exploration with n = 2
+![40a9309f-b4e5-4fab-a410-769f4c03e327](https://user-images.githubusercontent.com/67934296/188792481-a91a18e9-76b0-4127-b483-510f8c86ffbf.png)
+# N-gram exploration with n = 3
+![ed376b22-b5a3-4db7-b3f1-e388577147e0](https://user-images.githubusercontent.com/67934296/188792511-f527b5a2-1cd2-4684-9b57-bec641030da9.png)
+
+
 
