@@ -76,3 +76,17 @@ Accuracy:  0.852
 ![7ca28938-a48d-4e29-80de-915ff6322b9b](https://user-images.githubusercontent.com/67934296/188795045-096f8372-90ef-48b6-a701-845cd3a9f607.png)
 
 # LSTM CNN Classification
+![Screenshot 2022-09-07 072349](https://user-images.githubusercontent.com/67934296/188795388-caab8548-67cd-41f9-87eb-e3c9039a4bce.png)
+## training model
+![Screenshot 2022-09-07 072451](https://user-images.githubusercontent.com/67934296/188795503-64042c3a-5aa7-4e3e-8ae5-2ab4ca37bb03.png)
+## loss visualization
+![f5ef0e25-28bb-43ac-90ac-9eee003c4008](https://user-images.githubusercontent.com/67934296/188795659-ff143dde-8ce5-496c-82e9-22fe704a5751.png)
+## Accuracy visualization
+![7c3f2500-0af5-4847-a6a9-750e05a8bc17](https://user-images.githubusercontent.com/67934296/188795763-91468692-cedc-4011-b1c3-25ea0298dbae.png)
+### best Accuracy got with lstm cnn was 84%
+# Models Results visualization
+![f5b3ebbe-e4b4-4f57-bc97-062ad2d44072](https://user-images.githubusercontent.com/67934296/188795915-43d0c8dc-33fc-4692-8fc2-c4cbe3409065.png)
+### best Accuracy got for this project was 87%
+
+
+
