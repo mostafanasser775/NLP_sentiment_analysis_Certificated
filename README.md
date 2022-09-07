@@ -34,9 +34,12 @@
 
 # Data Preprocessing
 
-
 * Case Normalization
 * Remove Stopwords
 * Stemming & Lemmatization
-* Text Cleaning
+* Text Cleaning using built Functions
+
+##Top Stopwords
+![9d1539e0-5ffb-4b98-befb-cfee6008ba21](https://user-images.githubusercontent.com/67934296/188792799-a172550e-edb1-4599-be59-c0e16b3486de.png)
+
 
