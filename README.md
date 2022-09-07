@@ -49,7 +49,7 @@
   
   ![bdcab37c-625d-4b42-973b-f7f9e0afe5b7](https://user-images.githubusercontent.com/67934296/188793816-5b998841-04f5-4f38-a0fa-55b1266c0930.png)
 
-LinearSVC()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+LinearSVC()&emsp;emsp;
 Accuracy:  0.852
 
 ![3a8ac6a4-930a-454c-a999-2f5691d386a1](https://user-images.githubusercontent.com/67934296/188794118-c4dd6907-60b1-471b-9e57-df0696c4c3d2.png)
