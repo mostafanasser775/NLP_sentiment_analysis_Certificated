@@ -29,8 +29,14 @@
 
 ## N-gram exploration with n = 2
 ![40a9309f-b4e5-4fab-a410-769f4c03e327](https://user-images.githubusercontent.com/67934296/188792481-a91a18e9-76b0-4127-b483-510f8c86ffbf.png)
-# N-gram exploration with n = 3
+## N-gram exploration with n = 3
 ![ed376b22-b5a3-4db7-b3f1-e388577147e0](https://user-images.githubusercontent.com/67934296/188792511-f527b5a2-1cd2-4684-9b57-bec641030da9.png)
 
+# Data Preprocessing
 
+
+* Case Normalization
+* Remove Stopwords
+* Stemming & Lemmatization
+* Text Cleaning
 
