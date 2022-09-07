@@ -9,4 +9,7 @@
 <br>
 
 ## Installation
-unzip the Data.rar file and take path to Code
+<ol>
+  <li>unzip the Data.rar file<li>
+  
+  </ol>
