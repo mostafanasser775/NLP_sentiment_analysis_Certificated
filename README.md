@@ -44,7 +44,7 @@
 # Word Cloud Data Sample Visualization
 ![93820e16-3c7f-44e5-bfac-d4ae1418e6a0](https://user-images.githubusercontent.com/67934296/188793458-02095c65-a9c1-4b20-92f9-0aee105814fd.png)
 
-# Model testing Results
+# sample of Model testing Results
   LogisticRegression(C=2.0)
   
   Accuracy:  0.84
