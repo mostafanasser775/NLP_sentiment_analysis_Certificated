@@ -16,4 +16,6 @@
   </ol>
   
 # ***Data Exploration***
-![36739d3e-67b5-45e6-8828-db71b314fc34](https://user-images.githubusercontent.com/67934296/188791109-ad7c1239-a9e2-4b41-a644-570f6cb57110.png)
+
+![Screenshot 2022-09-07 064912](https://user-images.githubusercontent.com/67934296/188791240-4ecb2947-c390-42f1-a26a-f29666de939e.png)
+
