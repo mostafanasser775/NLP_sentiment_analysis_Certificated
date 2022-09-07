@@ -43,4 +43,5 @@
 ## Top Stopwords
 ![9d1539e0-5ffb-4b98-befb-cfee6008ba21](https://user-images.githubusercontent.com/67934296/188792799-a172550e-edb1-4599-be59-c0e16b3486de.png)
 
-
+# Word Cloud Data Sample Visualization
+![93820e16-3c7f-44e5-bfac-d4ae1418e6a0](https://user-images.githubusercontent.com/67934296/188793458-02095c65-a9c1-4b20-92f9-0aee105814fd.png)
