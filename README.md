@@ -47,4 +47,5 @@
 # Model testing Results
   LogisticRegression(C=2.0)
   Accuracy:  0.84
+  
   ![bdcab37c-625d-4b42-973b-f7f9e0afe5b7](https://user-images.githubusercontent.com/67934296/188793816-5b998841-04f5-4f38-a0fa-55b1266c0930.png)
