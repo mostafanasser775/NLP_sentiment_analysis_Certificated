@@ -75,7 +75,7 @@ Accuracy:  0.852
 
 ![7ca28938-a48d-4e29-80de-915ff6322b9b](https://user-images.githubusercontent.com/67934296/188795045-096f8372-90ef-48b6-a701-845cd3a9f607.png)
 
-# LSTM CNN Classification
+## LSTM CNN Classification model
 ![Screenshot 2022-09-07 072349](https://user-images.githubusercontent.com/67934296/188795388-caab8548-67cd-41f9-87eb-e3c9039a4bce.png)
 ## training model
 ![Screenshot 2022-09-07 072451](https://user-images.githubusercontent.com/67934296/188795503-64042c3a-5aa7-4e3e-8ae5-2ab4ca37bb03.png)
