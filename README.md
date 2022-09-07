@@ -10,5 +10,6 @@
 
 ## Installation
 <ol>
-  <li>unzip the Data.rar file<li><li>take path and update it in code<li>
+  <li>unzip the Data.rar file</li>
+  <li>take path and update it in code</li>
   </ol>
