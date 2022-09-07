@@ -56,3 +56,23 @@ LinearSVC()
 Accuracy:  0.852
 
 ![3a8ac6a4-930a-454c-a999-2f5691d386a1](https://user-images.githubusercontent.com/67934296/188794118-c4dd6907-60b1-471b-9e57-df0696c4c3d2.png)
+
+KNeighborsClassifier(n_neighbors=3)
+
+Accuracy:  0.7
+
+![5e0152e5-cb0e-4efc-bdba-acd636b4d188](https://user-images.githubusercontent.com/67934296/188794918-95a5e451-affb-4ce4-9cba-440ba1da45ab.png)
+
+RandomForestClassifier(n_estimators=150)
+
+Accuracy:  0.798
+
+![543c9fcb-5d23-4fcc-8ec1-75e73c045f3b](https://user-images.githubusercontent.com/67934296/188794983-13922e9f-e59f-4d83-aa6f-a00059919e65.png)
+
+SGDClassifier(max_iter=6)
+
+Accuracy:  0.852
+
+![7ca28938-a48d-4e29-80de-915ff6322b9b](https://user-images.githubusercontent.com/67934296/188795045-096f8372-90ef-48b6-a701-845cd3a9f607.png)
+
+# LSTM CNN Classification
