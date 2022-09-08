@@ -15,6 +15,7 @@
   <li>run the program</li>
   </ol>
   
+#                   Project Details For more  
 # ***Data Exploration***
 ![Screenshot 2022-09-07 064912](https://user-images.githubusercontent.com/67934296/188791240-4ecb2947-c390-42f1-a26a-f29666de939e.png)
 
